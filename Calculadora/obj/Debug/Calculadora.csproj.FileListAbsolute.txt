@@ -1,0 +1,11 @@
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\gerson.csantos1\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
